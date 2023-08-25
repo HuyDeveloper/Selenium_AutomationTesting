@@ -1,0 +1,13 @@
+﻿Num,User Role,Employee Name,Username,Status,Password,Confirm Password,Expected Output
+TC#1,ESS,,QuocHuy86,Enabled,Quochuy12@,Quochuy12@,Error
+TC#2,ESS,!,tvqhuy,Enabled,Quochuy12@,Quochuy12@,Error
+TC#3,ESS,A,QuocHuy86,Enabled,Quochuy12@,Quochuy12@,Error
+TC#4,ESS,Quoc Huy,QuocHuy86,Enabled,Quochuy12@,Quochuy12@,Error
+TC#5,ESS,Tran Dao Huy,QuocHuy9932,Enabled,Quochuy12@,Quochuy12@,Add success
+TC#6,ESS,Tran Dao Huy,QuocHuy7798,Enabled,Quochuy12@,Quochuy12@,Error
+TC#7,ESS,Tran Dao Huy,HuyTran@22,Enabled,Quochuy12@,Quochuy12@,Add success
+TC#8,ESS,Tran Dao Huy,Mai Lan,Enabled,Quochuy12@,Quochuy12@,Error
+TC#9,ESS,Tran Dao Huy,Quochuy8886,Enabled,Quochuy12@,Quochuy12@,Add success
+TC#10,ESS,Tran Dao Huy,Quochuy09,Enabled,Quochuy12@,Quochuy12@,Error
+TC#11,ESS,Tran Dao Huy,Quochuy5,Enabled,Quochuy12@,Quochuy12@,Error
+TC#12,ESS,Tran Dao Huy,Quochuy13,Enabled,"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged","Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged!",Error

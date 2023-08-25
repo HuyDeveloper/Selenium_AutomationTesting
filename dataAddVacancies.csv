@@ -1,0 +1,12 @@
+﻿Num,Job Title,Vacancy Name,Hiring Manager,Number of Positions,Expected result
+TC#1,,Main1c,Tran Dao Huy,,Error
+TC#2,job 1,Main Dev,Tran Dao Huy,,Success
+TC#3,job 1,,Tran Dao Huy,,Error
+TC#4,job 1,Mai Lane,Tran Dao Huy,,Success
+TC#5,job 1,Mai Lane,Tran Dao Huy,,Error
+TC#6,job 1,Mai Lane1,Tran Dao Huy,,Success
+TC#7,job 1,Dev,Gau boo,,Error
+TC#8,job 1,devops,,,Error
+TC#9,job 1,tester,Tran Dao Huy,,Success
+TC#10,job 1,manager,Tran Dao Huy,!2@#33,Error
+TC#11,job 1,manager,Tran Dao Huy,3,Success
